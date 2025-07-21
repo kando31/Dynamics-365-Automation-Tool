@@ -1,0 +1,13 @@
+# .gitignore
+*.o
+*.out
+*.exe
+*.log
+*.obj
+*.dll
+*.pdb
+*.class
+*.so
+*.a
+*.dSYM/
+build/
